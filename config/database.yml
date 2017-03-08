@@ -17,10 +17,10 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  host: "ec2-54-217-222-254.eu-west-1.compute.amazonaws.com"
-  username: "shnolontrqcpbh"
-  database: "dd0sqranlm0qfl"
-  password: "ed6bd80ff589bf2b6a2d0fba8d246722ef554098a8599ed0c09569a49cacf9fd"
+  host: "ec2-54-247-189-141.eu-west-1.compute.amazonaws.com"
+  username: "tiuxeixgyfmiti"
+  database: "dhaebcmgrfh5f"
+  password: "6db6089c21e7049af7071666380fe3d75eca7578765bd3de474990d1b387fc06"
   port: 5432
   # For details on connection pooling, see rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
